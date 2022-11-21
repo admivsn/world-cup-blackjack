@@ -1,0 +1,1 @@
+Sitemap: https://github.com/admivsn/world-cup-blackjack/sitemap.xml
