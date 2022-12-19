@@ -2,7 +2,7 @@ name: GitHub Action Workflow
 
 on:
   schedule:
-    - cron: '*/10 * * * *' # run every 10 mins
+    - cron: #'*/10 * * * *' # run every 10 mins
 
 jobs:
   build-deploy:
